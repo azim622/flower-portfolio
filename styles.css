@@ -1,0 +1,94 @@
+body{
+    font-family:Open Sans;
+    margin: 0;
+    
+    
+}
+h1{
+    font-size: 60px;
+}
+.fast-section{
+    display: flex;
+    gap: 15%;
+    background-color: #eed7dc;
+    padding: 10%;
+}
+.half-width{
+    width: 50%;
+}
+img{
+    width: 80%;
+}
+.link{
+    text-decoration: none;
+    padding: 10px 30px;
+    background-color: #E55473;
+    color:#FFF;
+    margin-top: 5%;
+}
+.about{
+    margin: 130px 350px;
+}
+.section-heading{
+    text-align: center;
+    /* font-size: 30px; */
+    margin-bottom: 5px;
+}
+.section-heading-description{
+    text-align: center;
+    /* font-size: 35px; */
+}
+.flower-display{
+    display: flex;
+    text-align: center;
+    gap: 2%;
+    border-radius: 10px;
+}
+.first{
+    background-color: #eed7dc;
+    height: 376px;
+}
+.second{
+    background-color: #cdedcd;
+    height: 376px;
+    width: 300px;
+}
+.third{
+    background-color: #efe4e4;
+    height: 376px;
+    /* width: 80%; */
+}
+.flower-name{
+    text-decoration: underline;
+}
+.flower-info{
+    display: flex;
+    gap: 30%;
+    margin: 30px 340px;
+    padding:0 100px;
+    background-color: #e5dde0;
+}
+.offer{
+    display: flex;
+    gap: 10%;
+    padding: 30px 400px;
+    background-color: #eed7dc;
+}
+.offer-title{
+    font-size: 30px;
+}
+.discount{
+    color: #E55473;
+}
+.flower-tob{
+    /* width: 60%; */
+}
+.price{
+}
+button{
+    text-decoration: none;
+    padding: 15px 30px;
+    background-color: #E55473;
+    color: #efe4e4;
+    text-align: center;
+}
