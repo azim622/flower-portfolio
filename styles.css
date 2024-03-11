@@ -87,8 +87,41 @@ img{
 }
 button{
     text-decoration: none;
-    padding: 15px 30px;
+    padding: 12px 30px;
     background-color: #E55473;
     color: #efe4e4;
+    margin: 10px 150px;
+    border-radius: 8px;
+}
+.social-media{
     text-align: center;
+    margin: 100px 0px;
+}
+.instagram{
+    display: flex;
+    margin: 30px 350px;
+    gap: 2%;
+}
+.deal-section{
+    text-align: center;
+    background-image: url(/images/Rectangle\ 9.png);
+    margin: 30px 350px;
+    padding: 60px 50px 10px 20px;
+}
+.final-div{
+    /* display: flex; */
+}
+.last-item{
+    margin: 150px 300px;
+    text-align: center;
+    background-color:#111010;
+    color:white;
+    padding: 10px;
+}
+span{
+    color: #E55473;
+}
+.warning{
+    color: rgb(41, 39, 39);
+    padding-bottom: 30px;
 }
